@@ -1,0 +1,521 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="zEkdtHMlBh2SFyHjWNZH">
+    <mxGraphModel dx="472" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GUmvBc8gLRCeECEukILp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-3" target="GUmvBc8gLRCeECEukILp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-3" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-4" target="GUmvBc8gLRCeECEukILp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-4" value="cout &amp;lt;&amp;lt; &quot;Введите число: \n&quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="150" as="sourcePoint" />
+            <mxPoint x="240" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-7" value="&lt;div&gt;#include &amp;lt;iostream&amp;gt;&lt;/div&gt;&lt;div&gt;using namespace std;&lt;/div&gt;&lt;div&gt;int main()&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;setlocale(LC_ALL, &quot;Russian&quot;);&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;int n, d;&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-8" target="GUmvBc8gLRCeECEukILp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-8" value="cin &amp;gt;&amp;gt; n;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-10" target="GUmvBc8gLRCeECEukILp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-10" value="d = n / 2;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="449.5" as="sourcePoint" />
+            <mxPoint x="240" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-13" value="//Заднее ребро" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-14" target="GUmvBc8gLRCeECEukILp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-14" target="GUmvBc8gLRCeECEukILp-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="520" />
+              <mxPoint x="320" y="670" />
+              <mxPoint x="240" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-14" value="for (int i = 0; i &amp;lt; d; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-17" target="GUmvBc8gLRCeECEukILp-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="630" />
+              <mxPoint x="160" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-17" value="cout &amp;lt;&amp;lt; &quot; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-21" target="GUmvBc8gLRCeECEukILp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-21" value="cout &amp;lt;&amp;lt; endl;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-23" target="GUmvBc8gLRCeECEukILp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-23" target="GUmvBc8gLRCeECEukILp-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="820" />
+              <mxPoint x="360" y="1660" />
+              <mxPoint x="240" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-23" value="for (int i = 0; i &amp;lt; d - 1; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="759.5" as="sourcePoint" />
+            <mxPoint x="240" y="759.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-26" value="//Верхние дигонали" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="710" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-27" target="GUmvBc8gLRCeECEukILp-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-27" target="GUmvBc8gLRCeECEukILp-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="940" />
+              <mxPoint x="320" y="1080" />
+              <mxPoint x="240" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-27" value="for (int j = 1; j &amp;lt; d - i; j++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-29" target="GUmvBc8gLRCeECEukILp-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1040" />
+              <mxPoint x="160" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-29" value="cout &amp;lt;&amp;lt; &quot; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-32" target="GUmvBc8gLRCeECEukILp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-32" value="cout &amp;lt;&amp;lt; &quot;* &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-34" target="GUmvBc8gLRCeECEukILp-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-34" target="GUmvBc8gLRCeECEukILp-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1240" />
+              <mxPoint x="320" y="1370" />
+              <mxPoint x="240" y="1370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-34" value="for (int j = 0; j &amp;lt; n - 2; j++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-36" target="GUmvBc8gLRCeECEukILp-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1330" />
+              <mxPoint x="160" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-36" value="cout &amp;lt;&amp;lt; &quot;&amp;nbsp; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-40" target="GUmvBc8gLRCeECEukILp-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-40" target="GUmvBc8gLRCeECEukILp-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1430" />
+              <mxPoint x="320" y="1570" />
+              <mxPoint x="240" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-40" value="for (int j = 0; j &amp;lt; i; j++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-42" target="GUmvBc8gLRCeECEukILp-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1530" />
+              <mxPoint x="160" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-42" value="cout &amp;lt;&amp;lt; &quot; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-45" target="GUmvBc8gLRCeECEukILp-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="1620" />
+              <mxPoint x="100" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-45" value="cout &amp;lt;&amp;lt; &quot;*&quot; &amp;lt;&amp;lt; endl;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-48" target="GUmvBc8gLRCeECEukILp-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-48" target="GUmvBc8gLRCeECEukILp-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1720" />
+              <mxPoint x="320" y="1860" />
+              <mxPoint x="240" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-48" value="for (int i = 0; i &amp;lt; n; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-50" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="1639.5" as="sourcePoint" />
+            <mxPoint x="360" y="1639.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-51" value="//Переднее верхнее ребро" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1590" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-52" target="GUmvBc8gLRCeECEukILp-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1810" />
+              <mxPoint x="160" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-52" value="cout &amp;lt;&amp;lt; &quot;* &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-55" target="GUmvBc8gLRCeECEukILp-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-55" target="GUmvBc8gLRCeECEukILp-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1910" />
+              <mxPoint x="320" y="2050" />
+              <mxPoint x="240" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-55" value="for (int i = 0; i &amp;lt; d - 2; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-57" target="GUmvBc8gLRCeECEukILp-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="2010" />
+              <mxPoint x="160" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-57" value="cout &amp;lt;&amp;lt; &quot; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-60" target="GUmvBc8gLRCeECEukILp-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-60" value="cout &amp;lt;&amp;lt; &quot;*&quot; &amp;lt;&amp;lt; endl;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-62" target="GUmvBc8gLRCeECEukILp-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-62" target="GUmvBc8gLRCeECEukILp-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="2200" />
+              <mxPoint x="350" y="2920" />
+              <mxPoint x="240" y="2920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-62" value="for (int i = 0; i &amp;lt; n - 1 - d; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="2139.5" as="sourcePoint" />
+            <mxPoint x="240" y="2139.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-64" value="//Боковые ребра" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2090" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-66" target="GUmvBc8gLRCeECEukILp-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-66" value="cout &amp;lt;&amp;lt; &quot;* &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-68" target="GUmvBc8gLRCeECEukILp-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-68" target="GUmvBc8gLRCeECEukILp-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="2390" />
+              <mxPoint x="320" y="2530" />
+              <mxPoint x="240" y="2530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-68" value="for (int j = 0; j &amp;lt; n - 2; j++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-70" target="GUmvBc8gLRCeECEukILp-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="2490" />
+              <mxPoint x="160" y="2390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-70" value="cout &amp;lt;&amp;lt; &quot;&amp;nbsp; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-73" target="GUmvBc8gLRCeECEukILp-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-73" value="cout &amp;lt;&amp;lt; &quot;* &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-76" target="GUmvBc8gLRCeECEukILp-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-76" target="GUmvBc8gLRCeECEukILp-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="2680" />
+              <mxPoint x="320" y="2840" />
+              <mxPoint x="240" y="2840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-76" value="for (int j = 0; j &amp;lt; d - 2; j++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-78" target="GUmvBc8gLRCeECEukILp-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="2780" />
+              <mxPoint x="160" y="2680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-78" value="cout &amp;lt;&amp;lt; &quot; &quot;;&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-81" target="GUmvBc8gLRCeECEukILp-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="2880" />
+              <mxPoint x="110" y="2200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-81" value="cout &amp;lt;&amp;lt; &quot;*&quot; &amp;lt;&amp;lt; endl;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-84" target="GUmvBc8gLRCeECEukILp-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-84" target="GUmvBc8gLRCeECEukILp-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="2980" />
+              <mxPoint x="360" y="3680" />
+              <mxPoint x="240" y="3680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-84" value="for (int i = 0; i &amp;lt; d - 1; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-86" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="2909.5" as="sourcePoint" />
+            <mxPoint x="350" y="2909.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-87" value="//Нижние боковые ребра" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2870" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-88" target="GUmvBc8gLRCeECEukILp-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-88" value="cout &amp;lt;&amp;lt; &quot;* &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-90" target="GUmvBc8gLRCeECEukILp-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-90" target="GUmvBc8gLRCeECEukILp-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="3170" />
+              <mxPoint x="320" y="3300" />
+              <mxPoint x="240" y="3300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-90" value="for (int j = 0; j &amp;lt; n - 2; j++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-92" target="GUmvBc8gLRCeECEukILp-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="3260" />
+              <mxPoint x="160" y="3170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-92" value="cout &amp;lt;&amp;lt; &quot;&amp;nbsp; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-96" target="GUmvBc8gLRCeECEukILp-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-96" value="cout &amp;lt;&amp;lt; &quot;*&quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-98" target="GUmvBc8gLRCeECEukILp-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-98" target="GUmvBc8gLRCeECEukILp-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="3450" />
+              <mxPoint x="320" y="3600" />
+              <mxPoint x="240" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-98" value="for (int j = 1; j &amp;lt; d - i - 1; j++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-101" target="GUmvBc8gLRCeECEukILp-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="3550" />
+              <mxPoint x="160" y="3450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-101" value="cout &amp;lt;&amp;lt; &quot; &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-104" target="GUmvBc8gLRCeECEukILp-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="3640" />
+              <mxPoint x="110" y="2980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-104" value="cout &amp;lt;&amp;lt; &quot;*&quot; &amp;lt;&amp;lt; endl;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-107" target="GUmvBc8gLRCeECEukILp-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-107" target="GUmvBc8gLRCeECEukILp-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="3730" />
+              <mxPoint x="320" y="3880" />
+              <mxPoint x="240" y="3880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-107" value="for (int i = 0; i &amp;lt; n; i++)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-109" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="3669.5" as="sourcePoint" />
+            <mxPoint x="360" y="3669.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-110" value="//Нижнее ребро" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="3620" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-111" target="GUmvBc8gLRCeECEukILp-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="3830" />
+              <mxPoint x="160" y="3730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-111" value="cout &amp;lt;&amp;lt; &quot;* &quot;;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GUmvBc8gLRCeECEukILp-113" target="GUmvBc8gLRCeECEukILp-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-113" value="cout &amp;lt;&amp;lt; endl;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="3900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-116" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="4000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-118" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="3979.5" as="sourcePoint" />
+            <mxPoint x="240" y="3979.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GUmvBc8gLRCeECEukILp-119" value="&lt;div&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&#x9;&lt;/span&gt;return 0;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="3930" width="50" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

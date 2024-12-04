@@ -41,10 +41,10 @@ int main()
 	{
 		cout << "* ";
 	}
-		for (int i = 0; i < d - 2; i++)
-		{
-			cout << " ";
-		}
+	for (int i = 0; i < d - 2; i++)
+	{
+		cout << " ";
+	}
 	cout << "*" << endl;
 	//Боковые ребра
 	for (int i = 0; i < n - 1 - d; i++)
@@ -81,4 +81,3 @@ int main()
 	cout << endl;
 	return 0;
 }
-
