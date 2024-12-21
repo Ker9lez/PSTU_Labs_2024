@@ -25,8 +25,8 @@
 2.11 - ✔
 2.12 - ✔
 2.13 - ✔
-2.14 - X
-2.15 - X
+2.14 - ✔
+2.15 - ✔
 2.16 - X
 2.17 - X
 2.18 - X
@@ -38,4 +38,4 @@
 eq_half - X
 eq_Newton - X
 eq_Iteration - X
-tower_of_hanoi - X
+recursion - X
