@@ -36,6 +36,6 @@
 2.22 - ✔
 2.23 - ✔
 eq_half - ✔
-eq_Newton - X
-eq_Iteration - X
+eq_Newton - ✔
+eq_Iteration - ✔
 recursion - X
