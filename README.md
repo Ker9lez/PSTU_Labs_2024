@@ -38,4 +38,4 @@
 eq_half - ✔
 eq_Newton - ✔
 eq_Iteration - ✔
-recursion - X
+recursion - ✔
