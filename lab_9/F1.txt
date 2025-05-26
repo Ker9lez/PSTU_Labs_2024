@@ -1,0 +1,10 @@
+Hello world world
+This is a test
+C++ programming is fun fun
+No duplicates here
+Apple apple are not the same
+Repeat repeat is a word
+All words are unique in this line
+Same Same words here
+The quick brown fox
+Last line of the file
